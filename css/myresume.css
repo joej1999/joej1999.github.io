@@ -7,7 +7,7 @@ h1{
 }
 
 .text-primary{
-       font-family: 'Pacifico', cursive;
+       font-family: 'Pacifico', cursive;!important;
        color:#c1a34b
 .bg-primary {
        background-color: #808049!important;
