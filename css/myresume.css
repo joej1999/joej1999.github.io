@@ -6,5 +6,8 @@ h1{
        font-family: 'Noto Sans TC', sans-serif;
 }
 
+.text-primary{
+       font-family: 'Pacifico', cursive;
+       color:#c1a34b
 .bg-primary {
        background-color: #808049!important;
